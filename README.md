@@ -2,11 +2,12 @@
 
 MS Applied Artificial Intelligence graduate with a background in program management and financial analysis. I work at the intersection of AI/ML and business strategy, with hands-on experience in retrieval pipelines, predictive health analytics, computer vision, and quantitative finance.
 
-- 🌐 Portfolio: [areshtajvar.com](https://areshtajvar.com)
-- 💼 [LinkedIn](https://linkedin.com/in/aresh-tajvar)
-- 🔬 [ResearchGate](https://www.researchgate.net/profile/Aresh-Tajvar)
 - 🌍 Trilingual: English, Spanish, Persian
 - 📍 Open to data analysis, quantitative finance, or engineering roles in the US or Spain
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://areshtajvar.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aresh-tajvar)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Aresh-Tajvar)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
